@@ -13,4 +13,5 @@ incompatible changes. You have been warned.
 
 To install, clone into $GOROOT/src/pkg/db/ for now.
 
-Special thanks to Eden Li and Masaaki Yonebayashi.
+Special thanks to [Eden Li](https://github.com/eden)
+and [Masaaki Yonebayashi](https://github.com/yone098).
